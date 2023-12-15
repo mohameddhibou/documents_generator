@@ -1,0 +1,3 @@
+-choice to create all the categories
+-home for each category
+-process for each home
